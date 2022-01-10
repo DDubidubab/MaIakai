@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 #### Baekjoon Online Judge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=c0din9)](https://solved.ac/microkosmos/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=microkosmos)](https://solved.ac/microkosmos/)
