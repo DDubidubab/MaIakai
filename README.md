@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![c0din9's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0din9)](https://github.com/c0din9/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=microkosmos)](https://solved.ac/microkosmos/)
-[![c0din9's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0din9)](https://github.com/c0din9/)
