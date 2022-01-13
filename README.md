@@ -1,19 +1,19 @@
 ### Hi there 👋
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-white?style=logo=appveyor&logo=Python&logoColor=3776AB"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-blueviolet?style=logo=appveyor&logo=MySQL&logoColor=000000"/></a> &nbsp
+<img src="https://img.shields.io/badge/Github-gray?style=logo=appveyor&logo=GitHub&logoColor=181717"/></a> &nbsp
+<img src="https://img.shields.io/badge/Jupyter-white?style=logo=appveyor&logo=Jupyter&logoColor=F37626"/></a> &nbsp
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=logo=appveyor&logo=TensorFlow&logoColor=000000"/></a> &nbsp
+<p align="center">
+<img src="https://img.shields.io/badge/Keras-blue?style=logo=appveyor&logo=Keras&logoColor=000000"/></a> &nbsp
+<img src="https://img.shields.io/badge/Pytorch-red?style=logo=appveyor&logo=Pytorch&logoColor=000000"/></a> &nbsp
+<img src="https://img.shields.io/badge/Pandas-gray?style=logo=appveyor&logo=Pandas&logoColor=150458"/></a> &nbsp
+<img src="https://img.shields.io/badge/Numpy-green?style=logo=appveyor&logo=Numpy&logoColor=013243"/></a> &nbsp
+<img src="https://img.shields.io/badge/Scikit_Learn-violet?style=logo=appveyor&logo=scikit-learn&logoColor=000000"/></a> &nbsp
 
-<!--
-**c0din9/c0din9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 # Interest
