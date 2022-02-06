@@ -22,6 +22,7 @@
 + Recommender System
 + Data Analysis
 + Graph Neural Network
++ Large-Scale Data
 
  <a href="https://github.com/c0ding/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=c0din9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="c0din9's github stats" /></a> | <a href="https://github.com/c0din9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0din9&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
