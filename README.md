@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hits](https://hits.sh/github.com/Dy-tto.svg)](https://hits.sh/github.com/Dy-tto/)
+[![Hits](https://hits.sh/github.com/Dy-tto.svg?view=today-total&color=0cee30&labelColor=7650c7)](https://hits.sh/github.com/Dy-tto/)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
