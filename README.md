@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[![Hits](https://hits.sh/github.com/Dy-tto.svg)](https://hits.sh/github.com/Dy-tto/)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
