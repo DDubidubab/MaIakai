@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hits](https://hits.sh/github.com/Dy-tto.svg?view=today-total&color=0cee30&labelColor=7650c7)](https://hits.sh/github.com/Dy-tto/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDy-tto%2Fhit-counter&count_bg=%230CEB39&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
