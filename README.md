@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I was born in 10 Jul 1996.
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
