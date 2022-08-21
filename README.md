@@ -26,7 +26,7 @@
 + Graph Neural Network
 + Large-Scale Data
 
- <a href="https://github.com/Dy-tto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dy-tto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dytto's github stats" /></a> | <a href="https://github.com/Dy-tto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy-tto&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/MaIakai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MaIakai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MaIakai's github stats" /></a> | <a href="https://github.com/MaIakai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaIakai&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
 
 #### Baekjoon Online Judge
