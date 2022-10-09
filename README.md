@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Numpy-green?style=logo=appveyor&logo=Numpy&logoColor=013243"/></a> &nbsp
 <img src="https://img.shields.io/badge/Scikit_Learn-violet?style=logo=appveyor&logo=scikit-learn&logoColor=000000"/></a> &nbsp
 
-* [CV](https://github.com/MaIakai/CV/blob/master/%5BCV%5D%EA%B9%80%ED%98%95%EC%84%9D.pdf)
+* [CV](https://github.com/DDubidubab/CV/blob/master/%5BCV%5D%EA%B9%80%ED%98%95%EC%84%9D.pdf)
 
 # Interest
 + Machine Learning
@@ -26,7 +26,7 @@
 + Graph Neural Network
 + Large-Scale Data
 
- <a href="https://github.com/MaIakai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MaIakai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MaIakai's github stats" /></a> | <a href="https://github.com/MaIakai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaIakai&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/DDubidubab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DDubidubab&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DDubidubab's github stats" /></a> | <a href="https://github.com/DDubidubab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDubidubab&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
 
 #### Baekjoon Online Judge
