@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Numpy-green?style=logo=appveyor&logo=Numpy&logoColor=013243"/></a> &nbsp
 <img src="https://img.shields.io/badge/Scikit_Learn-violet?style=logo=appveyor&logo=scikit-learn&logoColor=000000"/></a> &nbsp
 
-* [CV](https://github.com/Kairos710/CV/blob/master/%5BCV%5D%EA%B9%80%ED%98%95%EC%84%9D.pdf)
+* [CV](https://github.com/Stax-9/CV/blob/master/%5BCV%5D%EA%B9%80%ED%98%95%EC%84%9D.pdf)
 
 # Interest
 + Machine Learning
@@ -26,7 +26,7 @@
 + Graph Neural Network
 + Large-Scale Data
 
- <a href="https://github.com/Kairos710/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kairos710&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kairos710's github stats" /></a> | <a href="https://github.com/Kairos710/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kairos710&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/Stax-9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Stax-9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stax-9's github stats" /></a> | <a href="https://github.com/Stax-9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stax-9&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
 
 #### Baekjoon Online Judge
